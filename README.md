@@ -1,2 +1,3 @@
 # WCMC_Practicals
- All Practicals of WCMC
+ This Repository has all the practiacls of the subject Wireless Communication and Mobile Computing
+ Every practical contains an android app created in Flutter
