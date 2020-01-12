@@ -1,16 +1,6 @@
-# practical_5
+### A Login Page with given functionalities in flutter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Successful Login message in TextView with Green background if Username & password is correct.
+2. Failure message in TextView with Red background if Username or password is incorrect.
+3. Disable Login Button after three wrong login attempts.
+4. Close application if user selects Cancel Button.
